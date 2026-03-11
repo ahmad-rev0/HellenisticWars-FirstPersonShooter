@@ -49,3 +49,4 @@
 /application.windows32/lib/jycessing/Launch4j/head_src/makefile filter=lfs diff=lfs merge=lfs -text
 /application.windows32/lib/jycessing/bin/COPYING filter=lfs diff=lfs merge=lfs -text
 *.lnk filter=lfs diff=lfs merge=lfs -text
+*.md filter=lfs diff=lfs merge=lfs -text
